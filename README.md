@@ -1,7 +1,3 @@
-<h2 tabindex="-1" dir="auto"><a id="user-content-credits" class="anchor" aria-hidden="true" tabindex="-1" href="#credits"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Watch the Live Action: Click the Image</h2>
-<ul dir="auto">
-<a href="https://www.youtube.com/watch?v=m7tv_y0M8aY"><img src="https://img.youtube.com/vi/m7tv_y0M8aY/maxresdefault.jpg" style="max-width: 100%;">
-
 </ul>
 <article class="markdown-body entry-content container-lg" itemprop="text"><h2 tabindex="-1" dir="auto"><a id="user-content-specification" class="anchor" aria-hidden="true" tabindex="-1" href="#specification"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Specification</h2>
 <table>
@@ -14,7 +10,7 @@
 <tbody>
 <tr>
 <td>Processor</td>
-<td>Intel Core i5-5300U</td>
+<td>Intel Core i3-5010U</td>
 </tr>
 <tr>
 <td>Integrated Graphics</td>
@@ -22,11 +18,11 @@
 </tr>
 <tr>
 <td>Memory</td>
-<td>SK-Hynix 8GB DDR3L</td>
+<td>Samsung 8GB DDR3L</td>
 </tr>
 <tr>
 <td>Storage</td>
-<td>120GB Gupga SSD Sata</td>
+<td>240GB PNY SSD Sata</td>
 </tr>
 
 <tr>
@@ -39,7 +35,7 @@
 </tr>
 <tr>
 <td>Bootloader Version</td>
-<td>v0.9.6</td>
+<td>v1.0.7</td>
 </tr>
 </tbody>
 </table>
@@ -106,5 +102,4 @@ To download itlwm <a href="https://github.com/OpenIntelWireless/itlwm/releases">
 <li><a href="https://github.com/zamkara">zamkara</a> for the EFI that I used and modified to make it work on Sonoma, as well as the description code on this page</li>
 </ul>
 <h2 tabindex="-1" dir="auto"><a id="user-content-download" class="anchor" aria-hidden="true" tabindex="-1" href="#download"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>The easiest guide to install macOS on your computer</h2>
-<p dir="auto">I made a comprehensive guide (at least on my opinion), <a href="https://www.youtube.com/watch?v=weoohMlGyMo&t=934s" rel="nofollow"><code>Youtube: litemint09</code></a></p>
 </article>
